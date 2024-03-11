@@ -1,5 +1,4 @@
 # Serwer IoT
-## Wstęp
 Projekt jest realizowany w ramach przedmiotu **Złożone Systemy Cyfrowe** na AGH. Jedynym autorem jestem ja, czyli **Marcin Żurawel**.
 ## Założenia
 Celem projektu jest stworzenie serwera komunikującego się z urządzeniami IoT i wystawiającego stronę www. Strona ma prezentować zebrane dane i pozwalać na kontakt z urządzeniami. Serwer powinien być napisany w "czystym" języku programowania - czyli używając tylko standardowej biblioteki.
